@@ -1,0 +1,6 @@
+-main Test
+-debug
+-swf test.swf
+-swf-version 10
+-swf-header 600:600:63:000000
+-swf-lib font/pf_ronda_seven.swf

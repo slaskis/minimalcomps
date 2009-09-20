@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<movie version="9">
+    <background color="#555555"/>
+    <frame>
+	    <library>
+	        <font name="PFRondaSeven" import="font/pf_ronda_seven.ttf" />
+	    </library>
+    </frame>
+</movie>

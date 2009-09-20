@@ -1,0 +1,5 @@
+<project name="minimalcomps" url="http://code.google.com/p/minimalcomps/" license="BSD">
+    <user name="slaskis"/>
+    <description>haXe port from Keith Peters minimalcomps project.</description>
+    <version name="0.9.7">Initial port, based on 0.97 of the as3 version.</version>
+</project>
